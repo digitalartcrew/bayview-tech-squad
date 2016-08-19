@@ -1,5 +1,6 @@
-.jumbotron {
+.top-img {
 	margin-bottom: 0px;
+	background-image: url('img/_MG_2011.JPG');
 }
 
 .navbar-default {
